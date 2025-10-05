@@ -1,11 +1,11 @@
-![Game Bub logo](./docs/assets/logo.png)
-[![Game Bub trailer](./docs/assets/video-poster.jpg)](https://www.youtube.com/watch?v=f16E5J6qljw)
+![Retrograde](./docs/assets/logo2.png)
+[![Retrograde trailer](./docs/assets/video-poster.jpg)](https://www.youtube.com/watch?v=f16E5J6qljw111111111)
 
-**Game Bub** is an open-source FPGA retro emulation handheld, with support for Game Boy, Game Boy Color, and Game Boy Advance games.
+**Retrograde** is an open-source FPGA retro emulation handheld, with support for Game Boy, Game Boy Color, and Game Boy Advance games.
 
-Check out the [announcement blog post](https://eli.lipsitz.net/posts/introducing-gamebub/) for an in-depth look at the development process!
+Check out the [announcement blog post](https:///) for an in-depth look at the development process!
 
-Check out the **[Crowd Supply campaign](https://www.crowdsupply.com/second-bedroom/game-bub)** to buy your own, prebuilt Game Bub!
+Check out the **[Crowd Supply campaign](https://www.crowdsupply.com/second-bedroom/)** to buy your own, prebuilt Game Bub!
 
 
 ## Features
@@ -19,7 +19,7 @@ Check out the **[Crowd Supply campaign](https://www.crowdsupply.com/second-bedro
 
 ## Building
 
-Building a Game Bub handheld requires manufacturing PCBs, 3D printing the shell and buttons, and assembling components from a variety of sources. For information on manufacturing and assembling your own, see [docs/building.md](docs/building.md).
+Building a Retrograde handheld requires manufacturing PCBs, 3D printing the shell and buttons, and assembling components from a variety of sources. For information on manufacturing and assembling your own, see [docs/building.md](docs/building.md).
 
 For other inquiries, contact me directly at eli@lipsitz.net.
 
@@ -43,4 +43,4 @@ Unless otherwise specified:
 * 3D STL files (in `3d/`) is licensed under Creative Commons Attribution / Share-Alike 4.0 (`CC-BY-SA-4.0`)
 * PCB schematic and layout files (in `pcb/`) are licensed under Creative Commons Attribution / Share-Alike 4.0 (`CC-BY-SA-4.0`)
 
-At a high level, this means that you can copy, share, and modify the source code, as long as you provide proper attribution and share your source code / design files with the same license. However, this does not mean that you can use the "Game Bub" name and logo for your product without permission.
+At a high level, this means that you can copy, share, and modify the source code, as long as you provide proper attribution and share your source code / design files with the same license. However, this does not mean that you can use the "Retrograde" name and logo for your product without permission.
