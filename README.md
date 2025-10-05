@@ -21,7 +21,7 @@ Check out the **[Crowd Supply campaign](https://www.crowdsupply.com/second-bedro
 
 Building a Retrograde handheld requires manufacturing PCBs, 3D printing the shell and buttons, and assembling components from a variety of sources. For information on manufacturing and assembling your own, see [docs/building.md](docs/building.md).
 
-For other inquiries, contact me directly at eli@lipsitz.net.
+For other inquiries, contact me directly at leo.newton@icloud.com.
 
 ## Architecture
 
