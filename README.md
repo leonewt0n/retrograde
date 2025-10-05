@@ -1,5 +1,5 @@
 ![Retrograde](./docs/assets/logo2.png)
-[![Retrograde trailer](./docs/assets/video-poster.jpg)](https://www.youtube.com/watch?v=f16E5J6qljw111111111)
+[![Retrograde trailer](./docs/assets/video-poster11.jpg)](https://www.youtube.com/watch?v=f16E5J6qljw111111111)
 
 **Retrograde** is an open-source FPGA retro emulation handheld, with support for Game Boy, Game Boy Color, and Game Boy Advance games.
 
